@@ -23,7 +23,7 @@ mcp-scan scan tools.json --format json
 
 ## Part of the AIR Platform
 
-[AIR Blackbox Gateway](https://github.com/nostalgicskinco/air-blackbox-gateway) ecosystem.
+[AIR Blackbox Gateway](https://github.com/airblackbox/gateway) ecosystem.
 
 ## License
 
